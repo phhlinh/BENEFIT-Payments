@@ -1,4 +1,4 @@
-# BENEFIT-Payments
+# BENEFIT-Payments - Magento 2
 
 BENEFIT Payment Gateway - Magento 2 is an online payment solution that can be integrated with Magento 2 eCommerce store. The gateway allows store owners from Bahrain and other regions to accept online payments from debit card users (Bahrain debit cards).
 
